@@ -1,0 +1,5 @@
+gradio
+tensorflow
+tensorflow-datasets
+opencv-python
+numpy
